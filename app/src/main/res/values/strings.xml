@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WorkoutBuddy</string>
+    <string name="get_started">Get Started</string>
+    <string name="mountain_climber">mountain Climber</string>
+    <string name="repeat_2_times">repeat 2 times</string>
+    <string name="_1_00pm">1:00PM</string>
+    <string name="alternative_hell_touch">Alternative hell touch</string>
+    <string name="_2_00pm">1:00PM</string>
+    <string name="legup_crunches">legup crunches</string>
+    <string name="repeat_3_times">repeat 2 times</string>
+    <string name="_3_00pm">1:00PM</string>
+    <string name="legup_crunch">legup crunches</string>
+    <string name="repeat_4_times">repeat 2 times</string>
+    <string name="_4_00pm">1:00PM</string>
+    <string name="legup">legup crunches</string>
+</resources>
